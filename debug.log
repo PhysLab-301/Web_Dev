@@ -2191,3 +2191,486 @@
 {"name":"hexo","hostname":"Quantum-IV","pid":18516,"level":20,"msg":"Rendering index: index.html","time":"2018-10-07T06:08:02.754Z","v":0}
 {"name":"hexo","hostname":"Quantum-IV","pid":18516,"level":30,"msg":"Have a nice day","time":"2018-10-07T06:08:17.140Z","v":0}
 {"name":"hexo","hostname":"Quantum-IV","pid":18516,"level":20,"msg":"Database saved","time":"2018-10-07T06:08:17.154Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Hexo version: 3.7.1","time":"2018-10-13T04:33:17.610Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Working directory: F:\\PhysLab301\\","time":"2018-10-13T04:33:17.612Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Config loaded: F:\\PhysLab301\\_config.yml","time":"2018-10-13T04:33:17.731Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-deployer-git","time":"2018-10-13T04:33:17.773Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-deployer-rsync","time":"2018-10-13T04:33:17.780Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-generator-archive","time":"2018-10-13T04:33:17.783Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-generator-index","time":"2018-10-13T04:33:17.785Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-generator-category","time":"2018-10-13T04:33:17.787Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-generator-tag","time":"2018-10-13T04:33:17.788Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-renderer-marked","time":"2018-10-13T04:33:17.793Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-renderer-stylus","time":"2018-10-13T04:33:17.794Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-server","time":"2018-10-13T04:33:17.863Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Plugin loaded: hexo-renderer-ejs","time":"2018-10-13T04:33:17.867Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Script loaded: themes\\hexo-theme-hiker\\scripts\\fancybox.js","time":"2018-10-13T04:33:17.869Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Loading database.","time":"2018-10-13T04:33:17.873Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":30,"msg":"Start processing","time":"2018-10-13T04:33:17.890Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: _posts/PhysLab@301 网站介绍 & 文档规范建议.md","time":"2018-10-13T04:33:17.943Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: _posts/资源整合.md","time":"2018-10-13T04:33:17.943Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: _posts/hello-world.md","time":"2018-10-13T04:33:17.943Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Theme config loaded.","time":"2018-10-13T04:33:17.954Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: _config.yml","time":"2018-10-13T04:33:17.954Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/archive.css","time":"2018-10-13T04:33:17.983Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/dialog.css","time":"2018-10-13T04:33:17.983Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/header-post.css","time":"2018-10-13T04:33:17.983Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/home.css","time":"2018-10-13T04:33:17.983Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/style.styl","time":"2018-10-13T04:33:17.983Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/vdonate.css","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/dialog.js","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/home.js","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/insight.js","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/scripts.js","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/totop.js","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/vdonate.js","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/blank.gif","time":"2018-10-13T04:33:17.984Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/fancybox_loading.gif","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/fancybox_loading@2x.gif","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/fancybox_overlay.png","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/fancybox_sprite.png","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/fancybox_sprite@2x.png","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.css","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.js","time":"2018-10-13T04:33:17.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.pack.js","time":"2018-10-13T04:33:17.986Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/browser-support.png","time":"2018-10-13T04:33:17.986Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/donation-btn.png","time":"2018-10-13T04:33:17.986Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/preview-abstract.png","time":"2018-10-13T04:33:17.986Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/theme-color.png","time":"2018-10-13T04:33:17.986Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/de.yml","time":"2018-10-13T04:33:17.998Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/en.yml","time":"2018-10-13T04:33:17.998Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/es.yml","time":"2018-10-13T04:33:17.998Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/default.yml","time":"2018-10-13T04:33:17.998Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/nl.yml","time":"2018-10-13T04:33:17.998Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/fr.yml","time":"2018-10-13T04:33:17.999Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/no.yml","time":"2018-10-13T04:33:17.999Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/pt.yml","time":"2018-10-13T04:33:17.999Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/ru.yml","time":"2018-10-13T04:33:17.999Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/bootstrap.js","time":"2018-10-13T04:33:17.999Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/js/jquery-3.1.1.min.js","time":"2018-10-13T04:33:17.999Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/archive.ejs","time":"2018-10-13T04:33:18.031Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/categories.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/category.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/index.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/layout.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/page.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/tag.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/post.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/tags.ejs","time":"2018-10-13T04:33:18.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/zh-CN.yml","time":"2018-10-13T04:33:18.035Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: languages/zh-TW.yml","time":"2018-10-13T04:33:18.035Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/bootstrap.css","time":"2018-10-13T04:33:18.036Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/fonts/FontAwesome.otf","time":"2018-10-13T04:33:18.036Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.eot","time":"2018-10-13T04:33:18.036Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.woff","time":"2018-10-13T04:33:18.036Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/avatar.jpg","time":"2018-10-13T04:33:18.036Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/homelogo.jpg","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/logo.png","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/mylogo.jpg","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/rocket.png","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-buttons.css","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/helpers/fancybox_buttons.png","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-buttons.js","time":"2018-10-13T04:33:18.037Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-media.js","time":"2018-10-13T04:33:18.038Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js","time":"2018-10-13T04:33:18.038Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.ttf","time":"2018-10-13T04:33:18.043Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/3.jpg","time":"2018-10-13T04:33:18.043Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/archive-post.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/after-footer.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/archive.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/busuanzi-analytics.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/article.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/baidu-analytics.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/cnzz-analytics.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/copyright.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/comment.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/dialog.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/donate.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/facebook-sdk.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/gauges-analytics.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/footer.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/head.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/google-analytics.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/header-post.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/mobile-nav.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/sidebar.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/tencent-analytics.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/header.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/archive.ejs","time":"2018-10-13T04:33:18.057Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/category.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/curtains.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/social.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/recent_posts.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/tagcloud.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_widget/tag.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/search/baidu.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/test.html","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/search/index-mobile.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/search/insight.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/search/index.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/search/swiftype.ejs","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/6.jpg","time":"2018-10-13T04:33:18.058Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.svg","time":"2018-10-13T04:33:18.062Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/category.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/busuanzi-analytics.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/gallery.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/date.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/title.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/nav.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/mathjax.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/urlconvert.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: layout/_partial/post/tag.ejs","time":"2018-10-13T04:33:18.067Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/preview-mobile.png","time":"2018-10-13T04:33:18.068Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/4.jpg","time":"2018-10-13T04:33:18.071Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/14.jpg","time":"2018-10-13T04:33:18.074Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/2.jpg","time":"2018-10-13T04:33:18.077Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/13.jpg","time":"2018-10-13T04:33:18.079Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/code-theme.jpg","time":"2018-10-13T04:33:18.079Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/11.jpg","time":"2018-10-13T04:33:18.082Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/12.jpg","time":"2018-10-13T04:33:18.082Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/preview/preview-pc.png","time":"2018-10-13T04:33:18.085Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/7.jpg","time":"2018-10-13T04:33:18.095Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/5.jpg","time":"2018-10-13T04:33:18.096Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/10.jpg","time":"2018-10-13T04:33:18.119Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/8.jpg","time":"2018-10-13T04:33:18.147Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Processed: source/css/images/1.jpg","time":"2018-10-13T04:33:18.148Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: page","time":"2018-10-13T04:33:18.324Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: post","time":"2018-10-13T04:33:18.324Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: archive","time":"2018-10-13T04:33:18.324Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: index","time":"2018-10-13T04:33:18.324Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: category","time":"2018-10-13T04:33:18.324Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: tag","time":"2018-10-13T04:33:18.324Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Generator: asset","time":"2018-10-13T04:33:18.325Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":30,"msg":"Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.","time":"2018-10-13T04:33:18.329Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Database saved","time":"2018-10-13T04:33:18.335Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Rendering archive: archives/index.html","time":"2018-10-13T04:33:20.582Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":30,"msg":"Good bye","time":"2018-10-13T04:38:07.240Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18324,"level":20,"msg":"Database saved","time":"2018-10-13T04:38:07.261Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Hexo version: 3.7.1","time":"2018-10-13T04:38:18.816Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Working directory: F:\\PhysLab301\\","time":"2018-10-13T04:38:18.818Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Config loaded: F:\\PhysLab301\\_config.yml","time":"2018-10-13T04:38:18.944Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-deployer-git","time":"2018-10-13T04:38:18.985Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-deployer-rsync","time":"2018-10-13T04:38:18.992Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-generator-archive","time":"2018-10-13T04:38:18.996Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-generator-category","time":"2018-10-13T04:38:18.998Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-generator-tag","time":"2018-10-13T04:38:19.001Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-renderer-ejs","time":"2018-10-13T04:38:19.005Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-renderer-marked","time":"2018-10-13T04:38:19.010Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-generator-index","time":"2018-10-13T04:38:19.011Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-renderer-stylus","time":"2018-10-13T04:38:19.012Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Plugin loaded: hexo-server","time":"2018-10-13T04:38:19.092Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Script loaded: themes\\hexo-theme-hiker\\scripts\\fancybox.js","time":"2018-10-13T04:38:19.094Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Loading database.","time":"2018-10-13T04:38:19.099Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":30,"msg":"Start processing","time":"2018-10-13T04:38:19.122Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: _posts/PhysLab@301 网站介绍 & 文档规范建议.md","time":"2018-10-13T04:38:19.178Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: _posts/资源整合.md","time":"2018-10-13T04:38:19.178Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Theme config loaded.","time":"2018-10-13T04:38:19.211Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: _config.yml","time":"2018-10-13T04:38:19.213Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/archive.css","time":"2018-10-13T04:38:19.223Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/dialog.css","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/header-post.css","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/home.css","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/style.styl","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/vdonate.css","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/blank.gif","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/fancybox_loading.gif","time":"2018-10-13T04:38:19.224Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/fancybox_loading@2x.gif","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/fancybox_overlay.png","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/fancybox_sprite.png","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/fancybox_sprite@2x.png","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.css","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.js","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.pack.js","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/dialog.js","time":"2018-10-13T04:38:19.225Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/home.js","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/insight.js","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/scripts.js","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/totop.js","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/vdonate.js","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/browser-support.png","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/donation-btn.png","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/preview-abstract.png","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/theme-color.png","time":"2018-10-13T04:38:19.226Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/archive.ejs","time":"2018-10-13T04:38:19.240Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/categories.ejs","time":"2018-10-13T04:38:19.241Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/index.ejs","time":"2018-10-13T04:38:19.241Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/category.ejs","time":"2018-10-13T04:38:19.241Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/layout.ejs","time":"2018-10-13T04:38:19.241Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/page.ejs","time":"2018-10-13T04:38:19.241Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/post.ejs","time":"2018-10-13T04:38:19.241Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/default.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/de.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/es.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/fr.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/en.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/nl.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/no.yml","time":"2018-10-13T04:38:19.243Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/pt.yml","time":"2018-10-13T04:38:19.244Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/ru.yml","time":"2018-10-13T04:38:19.244Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/zh-CN.yml","time":"2018-10-13T04:38:19.244Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: languages/zh-TW.yml","time":"2018-10-13T04:38:19.244Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/bootstrap.js","time":"2018-10-13T04:38:19.244Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/js/jquery-3.1.1.min.js","time":"2018-10-13T04:38:19.244Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/tag.ejs","time":"2018-10-13T04:38:19.271Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/tags.ejs","time":"2018-10-13T04:38:19.272Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/bootstrap.css","time":"2018-10-13T04:38:19.274Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/fonts/FontAwesome.otf","time":"2018-10-13T04:38:19.274Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.eot","time":"2018-10-13T04:38:19.274Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.woff","time":"2018-10-13T04:38:19.274Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/avatar.jpg","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/homelogo.jpg","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/logo.png","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/mylogo.jpg","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/rocket.png","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-buttons.css","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-buttons.js","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/helpers/fancybox_buttons.png","time":"2018-10-13T04:38:19.275Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-media.js","time":"2018-10-13T04:38:19.276Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css","time":"2018-10-13T04:38:19.276Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js","time":"2018-10-13T04:38:19.276Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/after-footer.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/archive-post.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/article.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/baidu-analytics.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/archive.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/busuanzi-analytics.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/cnzz-analytics.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/comment.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/copyright.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/dialog.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/donate.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/footer.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/facebook-sdk.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/google-analytics.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/gauges-analytics.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/head.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/header-post.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/header.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/sidebar.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/tencent-analytics.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/archive.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/category.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/curtains.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/recent_posts.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/social.ejs","time":"2018-10-13T04:38:19.292Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/test.html","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/mobile-nav.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/tag.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_widget/tagcloud.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/search/baidu.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/search/index-mobile.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/search/index.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/search/insight.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/search/swiftype.ejs","time":"2018-10-13T04:38:19.293Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.ttf","time":"2018-10-13T04:38:19.294Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/3.jpg","time":"2018-10-13T04:38:19.294Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/6.jpg","time":"2018-10-13T04:38:19.297Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/date.ejs","time":"2018-10-13T04:38:19.302Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/category.ejs","time":"2018-10-13T04:38:19.302Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/busuanzi-analytics.ejs","time":"2018-10-13T04:38:19.302Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/gallery.ejs","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/mathjax.ejs","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/tag.ejs","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/title.ejs","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/nav.ejs","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: layout/_partial/post/urlconvert.ejs","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.svg","time":"2018-10-13T04:38:19.303Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/preview-mobile.png","time":"2018-10-13T04:38:19.307Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/4.jpg","time":"2018-10-13T04:38:19.311Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/14.jpg","time":"2018-10-13T04:38:19.314Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/2.jpg","time":"2018-10-13T04:38:19.316Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/13.jpg","time":"2018-10-13T04:38:19.319Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/code-theme.jpg","time":"2018-10-13T04:38:19.319Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/11.jpg","time":"2018-10-13T04:38:19.323Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/12.jpg","time":"2018-10-13T04:38:19.323Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/preview/preview-pc.png","time":"2018-10-13T04:38:19.325Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/7.jpg","time":"2018-10-13T04:38:19.334Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/5.jpg","time":"2018-10-13T04:38:19.336Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/10.jpg","time":"2018-10-13T04:38:19.337Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/8.jpg","time":"2018-10-13T04:38:19.368Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Processed: source/css/images/1.jpg","time":"2018-10-13T04:38:19.369Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: page","time":"2018-10-13T04:38:19.557Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: post","time":"2018-10-13T04:38:19.557Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: archive","time":"2018-10-13T04:38:19.557Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: category","time":"2018-10-13T04:38:19.557Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: tag","time":"2018-10-13T04:38:19.557Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: index","time":"2018-10-13T04:38:19.557Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Generator: asset","time":"2018-10-13T04:38:19.558Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":30,"msg":"Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.","time":"2018-10-13T04:38:19.562Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Database saved","time":"2018-10-13T04:38:19.571Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Rendering index: index.html","time":"2018-10-13T04:38:24.961Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Rendering index: index.html","time":"2018-10-13T04:38:26.036Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":30,"msg":"See you again","time":"2018-10-13T04:51:32.491Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":16800,"level":20,"msg":"Database saved","time":"2018-10-13T04:51:32.504Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Hexo version: 3.7.1","time":"2018-10-13T05:01:39.246Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Working directory: F:\\PhysLab301\\","time":"2018-10-13T05:01:39.247Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Config loaded: F:\\PhysLab301\\_config.yml","time":"2018-10-13T05:01:39.396Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-deployer-git","time":"2018-10-13T05:01:39.450Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-deployer-rsync","time":"2018-10-13T05:01:39.457Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-generator-category","time":"2018-10-13T05:01:39.460Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-generator-archive","time":"2018-10-13T05:01:39.463Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-renderer-marked","time":"2018-10-13T05:01:39.470Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-generator-index","time":"2018-10-13T05:01:39.472Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-generator-tag","time":"2018-10-13T05:01:39.473Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-renderer-ejs","time":"2018-10-13T05:01:39.477Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-renderer-stylus","time":"2018-10-13T05:01:39.478Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Plugin loaded: hexo-server","time":"2018-10-13T05:01:39.552Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Script loaded: themes\\hexo-theme-hiker\\scripts\\fancybox.js","time":"2018-10-13T05:01:39.554Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Loading database.","time":"2018-10-13T05:01:39.559Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":30,"msg":"Start processing","time":"2018-10-13T05:01:39.582Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: archives/index.md","time":"2018-10-13T05:01:39.642Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: _posts/PhysLab@301 网站介绍 & 文档规范建议.md","time":"2018-10-13T05:01:39.642Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: categories/index.md","time":"2018-10-13T05:01:39.642Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: _posts/资源整合.md","time":"2018-10-13T05:01:39.642Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: tags/index.md","time":"2018-10-13T05:01:39.642Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Theme config loaded.","time":"2018-10-13T05:01:39.654Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: _config.yml","time":"2018-10-13T05:01:39.656Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/archive.css","time":"2018-10-13T05:01:39.680Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/dialog.css","time":"2018-10-13T05:01:39.680Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/header-post.css","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/home.css","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/style.styl","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/vdonate.css","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/blank.gif","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/fancybox_loading.gif","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/fancybox_loading@2x.gif","time":"2018-10-13T05:01:39.681Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/fancybox_overlay.png","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/fancybox_sprite.png","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/fancybox_sprite@2x.png","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.css","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.js","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/jquery.fancybox.pack.js","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/dialog.js","time":"2018-10-13T05:01:39.682Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/home.js","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/insight.js","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/scripts.js","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/totop.js","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/vdonate.js","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/browser-support.png","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/donation-btn.png","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/preview-abstract.png","time":"2018-10-13T05:01:39.683Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/theme-color.png","time":"2018-10-13T05:01:39.684Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/archive.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/categories.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/category.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/index.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/page.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/layout.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/post.ejs","time":"2018-10-13T05:01:39.699Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/tag.ejs","time":"2018-10-13T05:01:39.700Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/default.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/en.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/es.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/de.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/fr.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/ru.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/nl.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/no.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/pt.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/zh-TW.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: languages/zh-CN.yml","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/bootstrap.js","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/js/jquery-3.1.1.min.js","time":"2018-10-13T05:01:39.702Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/tags.ejs","time":"2018-10-13T05:01:39.731Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/bootstrap.css","time":"2018-10-13T05:01:39.734Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/fonts/FontAwesome.otf","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.eot","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.woff","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/homelogo.jpg","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/avatar.jpg","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/logo.png","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/mylogo.jpg","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/rocket.png","time":"2018-10-13T05:01:39.735Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-buttons.css","time":"2018-10-13T05:01:39.736Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/helpers/fancybox_buttons.png","time":"2018-10-13T05:01:39.736Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css","time":"2018-10-13T05:01:39.736Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-buttons.js","time":"2018-10-13T05:01:39.736Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-media.js","time":"2018-10-13T05:01:39.736Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js","time":"2018-10-13T05:01:39.736Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/after-footer.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/archive.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/article.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/archive-post.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/baidu-analytics.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/cnzz-analytics.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/comment.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/busuanzi-analytics.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/dialog.ejs","time":"2018-10-13T05:01:39.752Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/donate.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/copyright.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/google-analytics.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/facebook-sdk.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/footer.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/gauges-analytics.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/head.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/mobile-nav.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/header-post.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/header.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/sidebar.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/tencent-analytics.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/archive.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/category.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/recent_posts.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/curtains.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/tagcloud.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/social.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_widget/tag.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/search/baidu.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/test.html","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/search/index-mobile.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/search/index.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/search/swiftype.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/search/insight.ejs","time":"2018-10-13T05:01:39.753Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.ttf","time":"2018-10-13T05:01:39.754Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/3.jpg","time":"2018-10-13T05:01:39.754Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/6.jpg","time":"2018-10-13T05:01:39.758Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/category.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/nav.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/busuanzi-analytics.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/date.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/gallery.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/mathjax.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/tag.ejs","time":"2018-10-13T05:01:39.762Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/urlconvert.ejs","time":"2018-10-13T05:01:39.763Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: layout/_partial/post/title.ejs","time":"2018-10-13T05:01:39.763Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/fonts/fontawesome-webfont.svg","time":"2018-10-13T05:01:39.764Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/preview-mobile.png","time":"2018-10-13T05:01:39.767Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/4.jpg","time":"2018-10-13T05:01:39.770Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/14.jpg","time":"2018-10-13T05:01:39.774Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/2.jpg","time":"2018-10-13T05:01:39.777Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/13.jpg","time":"2018-10-13T05:01:39.779Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/code-theme.jpg","time":"2018-10-13T05:01:39.779Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/11.jpg","time":"2018-10-13T05:01:39.783Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/12.jpg","time":"2018-10-13T05:01:39.783Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/preview/preview-pc.png","time":"2018-10-13T05:01:39.785Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/7.jpg","time":"2018-10-13T05:01:39.796Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/5.jpg","time":"2018-10-13T05:01:39.799Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/10.jpg","time":"2018-10-13T05:01:39.800Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/8.jpg","time":"2018-10-13T05:01:39.830Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Processed: source/css/images/1.jpg","time":"2018-10-13T05:01:39.831Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: page","time":"2018-10-13T05:01:40.021Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: post","time":"2018-10-13T05:01:40.021Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: category","time":"2018-10-13T05:01:40.021Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: archive","time":"2018-10-13T05:01:40.021Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: index","time":"2018-10-13T05:01:40.021Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: tag","time":"2018-10-13T05:01:40.021Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Generator: asset","time":"2018-10-13T05:01:40.022Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":30,"msg":"Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.","time":"2018-10-13T05:01:40.027Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Database saved","time":"2018-10-13T05:01:40.032Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering index: index.html","time":"2018-10-13T05:01:41.564Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering index: index.html","time":"2018-10-13T05:01:42.270Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering archive: archives/index.html","time":"2018-10-13T05:01:44.468Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering archive: archives/index.html","time":"2018-10-13T05:01:46.015Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering archive: archives/index.html","time":"2018-10-13T05:01:47.975Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering categories: categories/index.html","time":"2018-10-13T05:01:48.372Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering tags: tags/index.html","time":"2018-10-13T05:01:49.967Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering index: index.html","time":"2018-10-13T05:01:56.231Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering index: index.html","time":"2018-10-13T05:01:56.622Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering archive: archives/index.html","time":"2018-10-13T05:02:10.219Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering categories: categories/index.html","time":"2018-10-13T05:02:12.208Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering archive: archives/index.html","time":"2018-10-13T05:02:13.635Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering categories: categories/index.html","time":"2018-10-13T05:02:26.824Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Rendering tags: tags/index.html","time":"2018-10-13T05:02:28.263Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":30,"msg":"Have a nice day","time":"2018-10-13T05:02:39.351Z","v":0}
+{"name":"hexo","hostname":"Quantum-IV","pid":18108,"level":20,"msg":"Database saved","time":"2018-10-13T05:02:39.363Z","v":0}

@@ -1,7 +1,8 @@
 ---
-title: PhysLab@301 网站介绍 & 文档规范建议
+title: 网站介绍 & 文档规范建议
 date: 2018-10-08 13:51:11
-tags: Meta
+categories: 运营维护
+tags: 操作规范
 ---
 # PhysLab@301介绍
 
@@ -30,10 +31,18 @@ tags: Meta
 - 博客框架：[Hexo](https://hexo.io/zh-cn/)
 - 自动部署：[git](https://git-scm.com/)
   
-## 如何更新博客文章
+## 如何更新博客
 
 ### 书写
 [如何使用Hexo写作](https://hexo.io/zh-cn/docs/writing)，Markdown了解一下**
+
+修改 About 部分的宣传文章请编辑source/about/index.md
+其余主页栏为hexo主题自动生成
+
+### 设置
+请在项目源路径下编辑_config.yml文件，参见[如何配置博客]](https://hexo.io/zh-cn/docs/configuration)
+
+同理，配置页面视觉效果请修改对应主题的相应配置文件_config.yml
 
 ### 部署
 [Hexo博客部署](https://hexo.io/zh-cn/docs/deployment.html)
@@ -44,7 +53,11 @@ hexo clean
 hexo g
 hexo d
 ```
-VPS添加了301主机的[SSH公钥](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)，`hexo d` 将调用githook自动部署
+VPS添加了301主机的[SSH公钥](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)，`hexo d` 
+将调用githook自动部署
+
+### 附注
+维护技术问题可联系301相关学长
 
 # 文档规范建议
 

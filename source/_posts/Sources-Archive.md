@@ -1,25 +1,27 @@
 ---
 title: 资源整合
 date: 2018-10-08 14:47:44
-tags:
+categories: 档案记录
+tags: 备忘录
 ---
 施工中。。。
 
 简单总结，未完待续
-
+## 网络配置
 - 计算主机
 - 无线网桥
 - 路由器
 
-数字资源：
+## 数字服务：
 - 邮箱
 - 域名
 - 网站
 - 腾讯云
 - 搬瓦工VPS
 - SS科学上网
+- [drcom上网脚本](https://github.com/drcoms/drcom-generic)
 
-软件资源：
+## 应用软件：
 - Mathematica 地表最强数学软件之一，微分方程和符号计算
 - COMSOL 多物理场有限元模拟（FEM Simulation）
 - MATLAB 地表最强数学软件之二，数值计算，数据处理和可视化
@@ -28,8 +30,6 @@ tags:
 - Hantek 虚拟示波器
 - MinGW,C/C++/Fortran
 - Tracker 视频处理，获取数据
-  
-----------------
 - Cero 3D建模打印
 - Solidworks
 - LabView 
