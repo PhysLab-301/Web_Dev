@@ -1,17 +1,13 @@
 ---
 title: CUPT经验分享
 date: 2018-11-18 11:42:44
+author: 2016级 马祥芸
 categories: 经验分享
-author: 2016 马祥芸
 tags: cupt经验
 ---
 
-
-
-## <center>CUPT经验分享</center>
-###### <center>2016级 马祥芸</center>
-###### <center>Email: Richardxm2062@outlook.com</center>
----
+<center>2016级 马祥芸</center>
+<center>Email: Richardxm2062@outlook.com</center>
 
 ## 写给新人
 **刚接触CUPT竞赛的同学们可能有如下几个问题：**
@@ -102,4 +98,4 @@ tags: cupt经验
 **也许我们付出了很多，终未能收获理想的成绩请不要气馁，比赛机制与其他不可抗因素我们无法避免。
 我们在这过程中已经收获的足够多。无论是自我突破，还是get一群热爱物理的朋友们。**
 
-### <center>文末祝愿学弟学妹们取得好成绩！感受物理的魅力，享受物理！</center>
+**祝愿学弟学妹们取得好成绩！感受物理的魅力，享受物理！**
