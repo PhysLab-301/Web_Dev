@@ -1,7 +1,7 @@
 ---
 title: 302实验室简介及实验室注意事项
 date: 2018-11-10 13:40:44
-categories: 实验技术
+categories: Maintenance
 tags: 实验室维护
 ---
 
