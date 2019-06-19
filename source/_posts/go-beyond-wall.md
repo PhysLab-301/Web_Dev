@@ -26,6 +26,8 @@ tags: 科学上网
 
 推荐:
 - shadowfly
+- 门罗ss
+- 红杏ss
 
 ## 自助搭建服务器
 
@@ -33,6 +35,6 @@ tags: 科学上网
 
 缺点：技术门槛高，需要折腾
 
-鉴于某些周所周知而玄而又玄的原因，[本文](\asset\files\how-to-build-ss-server.pdf)仅提供参考
+鉴于某些众所周知而玄而又玄的原因，[本文](\asset\files\how-to-build-ss-server.pdf)仅提供参考
 
 

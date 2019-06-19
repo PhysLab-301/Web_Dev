@@ -63,7 +63,7 @@ physlab301@outlook.com
 
 - 答辩环节形式为**PPT汇报展示**，时间**15min**，裁判为往届参赛队员和指导老师。
 
-- 答辩PPT要求请参照[Presentation标准](/Research/presentation-standard/index.html)，范例请参照[往年CUPT题目归档](/Archive/cupt-archive-2018/index.html)
+- 答辩PPT要求请参照[如何做好Presentation](/Research/art-of-presentation/index.html)，范例请参照[往年CUPT题目归档](/Archive/cupt-archive-2018/index.html)
 
 - 答辩完成后各小组题目调研过程的实验经费可进行统一报销，请**保留购置实验器材的发票**。
 

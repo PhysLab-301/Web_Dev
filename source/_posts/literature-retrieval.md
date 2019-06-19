@@ -1,7 +1,7 @@
 ---
 title: 如何获得高质量文献？
 date: 2018-11-16 11:47:18
-categories: Technology
+categories: Research
 tags: 文献检索
 ---
 
