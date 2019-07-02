@@ -74,14 +74,25 @@ ps: 英文阅读有困难请在wiki中选择中文
 
 **Recommended**
 ### [Mathemtaica"](http://www.wolfram.com/mathematica/)
-地表最强数学软件没有之一，物理系圣剑，优势在于微分方程和符号计算，以及良好的可视化
+地表最强数学软件没有之一，物理系圣剑，优势在于微分方程和符号计算，以及快速的可视化。不过Mathematica最强大的功能还是在于 Data Integrated——你可以直接从Mathematica调用Wolfram Alpha存储的实体数据（包含各种物理化学常数以及粒子和宇宙学数据等等），避免了手动输入常数的烦恼。
+
 - [知乎： Mathematica有多厉害](https://www.zhihu.com/question/27834147/answer/38337425)
 - [学习： Wolfram U](http://www.wolfram.com/wolfram-u/)
 - [学习： Elementary Language Introduction](http://www.wolfram.com/language/elementary-introduction/2nd-ed/?source=nav)
 - [Wolfram Alpha](http://m.wolframalpha.com/)
 
 ### [Python"](https://www.python.org/) 
-Anaconda科学计算发行版，学界和产业界的主流通用科学计算解决方案，优势在于通用计算，可以完全取代MATLAB
+推荐Anaconda科学计算发行版（内置所有科学计算第三方库），学界和产业界的主流通用科学计算解决方案，优势在于简单易用，强大全面，虽然在某些细分领域无法与专业软件媲美，但是其多样化的通用计算能力是Python计算生态可以延续的根本性原因。
+ps: 可以完全取代MATLAB以及大部分Mathematica。
+
+常用库科普（Anaconda 集成）：
+- Numpy: 即 Numerical Py 矩阵和数值计算
+- Scipy: 即 Scientific Py 科学计算工具，拟合/回归/优化
+- Sympy: 即 Symbolic Py 符号计算，支持LaTeX导出，符号代数系统
+
+- Pandas: 数据分析，支持xlsx和可视化
+- Jupyter: 交互式笔记本前端，支持code/LaTex/markdown混合输入和可视化，被学界认为是未来数字化论文的标准格式。
+- Matplotlib: 绘图库，接口与MATLAB类似，可以满足绝大多数可视化需求。
 
 - [Python: Anaconda](https://www.anaconda.com/)
 - [The Wonderful World of Scientific Computing with Python | SciPy 2014](https://www.youtube.com/watch?v=A9tv7WBIwyM)
@@ -89,8 +100,7 @@ Anaconda科学计算发行版，学界和产业界的主流通用科学计算解
 - [Coursera: Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
 
 ### Microsoft Excel
-小学生都可以玩的溜的数据处理，快速数据分析，可视化。Python（Pandas）和Mathematica支持对XLSX文件进行分析。
-实际上专业数据和计算软件的复杂功能和特性很少会用到，Excel才是日常记录实验数据使用最多的工具。
+小学生都可以玩的溜的数据处理。Excel的复杂功能和特性很少会用到，Excel的主要功能是日常记录实验数据以及快速可视化和基本处理。复杂的数据分析和计算环节通常由其他软件完成，Python(Pandas)和Mathematica支持导入.xlsx文件格式。
 
 - [Edx: Analyzing and Visualizing Data with Excel](https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+1T2018/course/)
 - [知乎：Excel Top Answers](https://www.zhihu.com/topic/19567930/top-answers)
@@ -109,11 +119,8 @@ C/C++的在CUPT中应用并不广泛，实际科研中主要用于计算密集�
 ### [MATLAB/Octave"](https://www.gnu.org/software/octave/)
 不用多说，大家都懂，数值计算，实际上更多的是画图工具
 
-### [Origin"](https://www.originlab.com/)
-科学绘图软件，出版物级别的数据绘图
-
 ### [Julia"](https://julialang.org/)
-新兴的高性能科学计算语言，语法介于Fortran和Python之间，具有媲美C/Fortran的速度
+一门新兴的高性能科学计算语言，语法介于Fortran和Python之间，具有媲美C/Fortran的速度
 
 
 ## 如何提高编程和计算能力？
