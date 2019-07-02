@@ -1,6 +1,7 @@
 ---
 title: 高等物理实验教程
 date: 2019-06-22 15:12:35
+categories: Research
 tags: 实验
 ---
 
