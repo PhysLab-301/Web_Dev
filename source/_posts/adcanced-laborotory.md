@@ -1,10 +1,10 @@
 ---
-title: 如何做好实验数据分析？
+title: 高等物理实验教程
 date: 2019-06-22 15:12:35
 categories: Research
 tags: 实验
 ---
-# Advanced Laboratory 教程
+
 Code for modeling and data analysis of PHYS128 AL. For Demonstration.
 
 @ 材料来自 UC Santa Barbara PHYS 128AL 高等物理实验
@@ -42,7 +42,7 @@ Experiment# 文件夹下相关与实验名称相同的pdf为实验的介绍文�
 
 **的时候，你距离一个优秀的物理实验就不远了。**
 
-![Presentation](https://www.annalect.fi/wp-content/uploads/2017/09/15141956/kansikuva-data-presentation.png)
+![Presentation](/asset/images/presentation.png)
 
 通常团队合作对于实验设计非常重要，因为实验设计依赖综合性的知识背景和能力（物理，工程经验，机械和电子技术，代码和编程），
 而且实验仪器的构建需要不同领域的工程师和科学家合作。团队沟通，设计论证对于实验来说非常重要。
@@ -70,7 +70,7 @@ Experiment# 文件夹下相关与实验名称相同的pdf为实验的介绍文�
 
 还是那句话，团队对于实验来说非常重要，（想象一下CERN或者LIGO的几千人实验组），最重要的原因就是团队分工和合作可以提高效率（人类作为社会性动物的根本优势）。
 
-![LIGO 团队](https://pic4.zhimg.com/80/8220a3cd3ef19121c3e102e676472eb9_hd.jpg)
+![LIGO 团队](/asset/images/LIGO_group.jpg)
 
 最简单的例子：
 - A同学搭建实验仪器的机械结构，
@@ -115,7 +115,7 @@ Experiment# 文件夹下相关与实验名称相同的pdf为实验的介绍文�
 总之实验记录源于工程实践的经验，就像是工程中的开发文档，测试记录。
 301之前这一方面做的很差，因为完全没有意识。大量的第一手计算手稿都是随手一划，惨遭丢弃。实验进程全靠反复试错后的个人经验积累，效率低下。实验记录也是在国内本科生的实验课程体系中是几乎被忽视的一个环节，因为详实可靠的实验记录需要很高的时间成本。但实际上磨刀不误砍柴工，经过系统整理的实验报告，可以大大提高你的效率：
 
-![Lab Note 举例](https://i.pinimg.com/474x/46/47/94/464794cd45be8b4431ccb9d0887a2e4b--crossword-labs.jpg)
+![Lab Note 举例](/asset/images/labnote.jpg)
 
 - 有效降低实验失误的几率，避免了大量无谓的debug和重复实验的时间。
 - 可以从过去的实验笔记中不断总结问题，并且改进实验设计
