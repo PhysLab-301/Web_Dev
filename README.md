@@ -1,15 +1,13 @@
-Website of PhysLab301 @Chongqing University
+*Website of PhysLab301 @Chongqing University*
 
-Constructed from Nov. 2018
+*Constructed from Nov. 2018*
 
-Maintained by Physlab@301 Undergraduate Tech Group
+*Maintained by Physlab@301 Undergraduate Tech Group*
 
-For Knowledge & Science
+*For Knowledge & Science*
 
 
-本文转自：https://www.physlab.science/Maintenance/general-introduction/
-
-# PhysLab301官方网站 
+# PhysLab301官方网站 [![online yes](https://img.shields.io/badge/online-yes-brightgreen)](https://www.physlab.science/)
 
 本网站为重庆大学物理系PhysLab301本科生实验室官网，由2016级CUPT成员建于2018年11月，目前由应届301本科生技术组进行维护。
 
