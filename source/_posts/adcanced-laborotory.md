@@ -4,6 +4,8 @@ date: 2019-06-22 15:12:35
 categories: Research
 tags: 实验
 ---
+<p></p>
+<center>2016 张渝宁</center>
 
 Code for modeling and data analysis of PHYS128 AL. For Demonstration.
 
@@ -183,8 +185,8 @@ Experiment# 文件夹下相关与实验名称相同的pdf为实验的介绍文�
 - [An Introduction to Data Analysis-Taylor](https://github.com/Neuromancer43/Advanced-Laboratory/blob/master/Taylor.pdf)
 - [Data Reduction and Error Analysis-Bevington](https://github.com/Neuromancer43/Advanced-Laboratory/blob/master/Bevington.pdf)
 
-暂时到这，如果各位学弟学妹有问题欢迎提问，如果觉得写的还可以求点赞（Star）+关注（Follow）#滑稽。
+暂时到这，原文挂在[我的Github上](https://github.com/Neuromancer43/Advanced-Laboratory)，如果各位学弟学妹有问题欢迎在Issue部分提问，顺带求点赞（Star）+关注（Follow）#滑稽。
 
 
-June.4th at UCSB
+June.4th at University of California, Santa Barbara
 
