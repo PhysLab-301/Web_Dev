@@ -1,7 +1,3 @@
-##############################
-## Folders                  ##
-##############################
-public
- 
-*.html
-node_modules
+public/
+node_modules/
+.deploy_git/
