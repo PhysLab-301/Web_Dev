@@ -14,9 +14,18 @@ comments: false
 
 <!-- </center> -->
 
+
 我们是重庆大学大学生物理学术竞赛（CUPT）团队。我们拥有独立的工作间和实验室（LE301&302），充足的实验经费和强大的师资配置。探索未知的世界，享受思维的碰撞。加入CUPT团队，让我们一起为CQU而战！
 
+## 2019重庆大学-南方科技大学mini研讨会
+
+![2019重庆大学-南方科技大学mini研讨会](/asset/images/show/seminar.jpg)
+
 ## 往届队员合影
+
+![2012合影](/asset/images/show/2012.jpg)
+
+![2015合影](/asset/images/show/2015.jpg)
 
 ![2017合影](/asset/images/show/2017/4.jpg)
 
