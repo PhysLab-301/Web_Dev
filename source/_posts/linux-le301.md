@@ -6,6 +6,7 @@ tags: linux
 ---
 
 2017 王沛正
+2016 张渝宁 (comments)
 
 # 301服务器使用指南
 
@@ -34,7 +35,16 @@ Port: 5013/5015
 --------------------
 
 ## linux基础
+补充： 
+建议萌新可以了解一些Linux系统以及的基本terminal操作，linux和开原生态系统是学术道路绕不开的一环。
+简单来说，你可以通过命令行（windows下黑色的cmd窗口）输入脚本命令来实现系统操作（比如复制粘贴，路径文件移动等）。
 
+早学早受益.jpg 
+
+Linux Distro系统推荐: Ubuntu, Manjaro
+关键词搜索: linux命令大全
+
+基本操作如下：
 ### 如何切换目录
 
 比方说有目录:/home/username/local/c
@@ -78,6 +88,9 @@ Port: 5013/5015
         ./filename #打开当前目录下的filename
 
 ### 如何使用VIM
+科普评论：
+vim是Linux下的一个文本编辑器（text editor）相当于win10的记事本...
+但是功能强大，如果你需要在命令行编写代码得话vim是不二选择
 
 参见：[linux-vim](https://www.runoob.com/linux/linux-vim.html)
 
